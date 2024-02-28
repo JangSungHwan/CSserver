@@ -1,0 +1,14 @@
+C:\Users\Jang\source\repos\server\servercore\bin\Debug\net8.0\servercore.exe
+C:\Users\Jang\source\repos\server\servercore\bin\Debug\net8.0\servercore.deps.json
+C:\Users\Jang\source\repos\server\servercore\bin\Debug\net8.0\servercore.runtimeconfig.json
+C:\Users\Jang\source\repos\server\servercore\bin\Debug\net8.0\servercore.dll
+C:\Users\Jang\source\repos\server\servercore\bin\Debug\net8.0\servercore.pdb
+C:\Users\Jang\source\repos\server\servercore\obj\Debug\net8.0\servercore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jang\source\repos\server\servercore\obj\Debug\net8.0\servercore.AssemblyInfoInputs.cache
+C:\Users\Jang\source\repos\server\servercore\obj\Debug\net8.0\servercore.AssemblyInfo.cs
+C:\Users\Jang\source\repos\server\servercore\obj\Debug\net8.0\servercore.csproj.CoreCompileInputs.cache
+C:\Users\Jang\source\repos\server\servercore\obj\Debug\net8.0\servercore.dll
+C:\Users\Jang\source\repos\server\servercore\obj\Debug\net8.0\refint\servercore.dll
+C:\Users\Jang\source\repos\server\servercore\obj\Debug\net8.0\servercore.pdb
+C:\Users\Jang\source\repos\server\servercore\obj\Debug\net8.0\servercore.genruntimeconfig.cache
+C:\Users\Jang\source\repos\server\servercore\obj\Debug\net8.0\ref\servercore.dll

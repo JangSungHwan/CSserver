@@ -1,0 +1,14 @@
+C:\Users\Jang\source\repos\server\dummyclient\bin\Debug\net8.0\dummyclient.exe
+C:\Users\Jang\source\repos\server\dummyclient\bin\Debug\net8.0\dummyclient.deps.json
+C:\Users\Jang\source\repos\server\dummyclient\bin\Debug\net8.0\dummyclient.runtimeconfig.json
+C:\Users\Jang\source\repos\server\dummyclient\bin\Debug\net8.0\dummyclient.dll
+C:\Users\Jang\source\repos\server\dummyclient\bin\Debug\net8.0\dummyclient.pdb
+C:\Users\Jang\source\repos\server\dummyclient\obj\Debug\net8.0\dummyclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jang\source\repos\server\dummyclient\obj\Debug\net8.0\dummyclient.AssemblyInfoInputs.cache
+C:\Users\Jang\source\repos\server\dummyclient\obj\Debug\net8.0\dummyclient.AssemblyInfo.cs
+C:\Users\Jang\source\repos\server\dummyclient\obj\Debug\net8.0\dummyclient.csproj.CoreCompileInputs.cache
+C:\Users\Jang\source\repos\server\dummyclient\obj\Debug\net8.0\dummyclient.dll
+C:\Users\Jang\source\repos\server\dummyclient\obj\Debug\net8.0\refint\dummyclient.dll
+C:\Users\Jang\source\repos\server\dummyclient\obj\Debug\net8.0\dummyclient.pdb
+C:\Users\Jang\source\repos\server\dummyclient\obj\Debug\net8.0\dummyclient.genruntimeconfig.cache
+C:\Users\Jang\source\repos\server\dummyclient\obj\Debug\net8.0\ref\dummyclient.dll
